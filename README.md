@@ -1,2 +1,2 @@
 # InfoSec2
-Homework for InfoSec3
+Homework for InfoSec2
